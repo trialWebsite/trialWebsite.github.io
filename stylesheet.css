@@ -1,0 +1,24 @@
+stylesheet.css
+nav li {
+	display: inline;
+	color: #af0a0a;
+	font-weight: bold;
+}
+.debate {
+	display: inline;
+}
+*{
+font-family: 'Yantramanav', sans-serif;
+}
+body{
+	background:#070001;
+	color: white;
+}
+h1,h2,h2,h4,h5,h6{
+	color:#af0a0a;
+}
+div{
+	background:white;
+	border: solid #af0a0a;
+	color: black;
+}
