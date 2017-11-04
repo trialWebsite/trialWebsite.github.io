@@ -1,6 +1,12 @@
 stylesheet.css
-#nav{
-	display: inline;
+h1{
+	text-align:center;
+}
+ul.nav{
+	list-style-type: none;
+}
+li.nav{
+	display: block;
 	color: #af0a0a;
 	font-weight: bold;
 }
