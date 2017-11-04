@@ -5,7 +5,7 @@ h1{
 }
 ul.nav{
 	list-style-type: none;
-	display: block;
+	display: inline;
 	text-align: center;
 }
 li.nav{
