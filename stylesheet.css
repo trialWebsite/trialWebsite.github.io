@@ -1,16 +1,23 @@
 stylesheet.css
-h1{
-	display: inline;
-	text-align:center;
+ #title {
+	text-align: center;
 }
 ul.nav{
 	list-style-type: none;
-	display: inline;
 	text-align: center;
 }
 li.nav{
+	display: inline;
+
+}
+li a{
 	color: #af0a0a;
 	font-weight: bold;
+	text-decoration: none;
+	margin: 10 auto;
+	padding: 0px 160px 0px 160px;
+	border: solid #af0a0a;
+	
 }
 .debate {
 	display: block;
@@ -33,4 +40,11 @@ div{
 	border: solid #af0a0a;
 	color: black;
 	padding: 10 0 10 0;
+	margin: 25px auto;
+}
+ul.debate{
+	list-style-type: none;
+}
+li.debate{
+	display: block;
 }
