@@ -1,11 +1,14 @@
 stylesheet.css
-nav li {
+#nav{
 	display: inline;
 	color: #af0a0a;
 	font-weight: bold;
 }
 .debate {
 	display: block;
+	background:white;
+	border: solid #af0a0a;
+	color: black;
 }
 *{
 font-family: 'Yantramanav', sans-serif;
