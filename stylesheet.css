@@ -1,12 +1,14 @@
 stylesheet.css
 h1{
+	display: inline;
 	text-align:center;
 }
 ul.nav{
 	list-style-type: none;
+	display: block;
+	text-align: center;
 }
 li.nav{
-	display: block;
 	color: #af0a0a;
 	font-weight: bold;
 }
