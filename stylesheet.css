@@ -5,7 +5,7 @@ nav li {
 	font-weight: bold;
 }
 .debate {
-	display: inline;
+	display: block;
 }
 *{
 font-family: 'Yantramanav', sans-serif;
